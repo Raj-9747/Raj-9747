@@ -1,4 +1,5 @@
-### Hi there 👋 I am Raj Fachara
+### Hi there 👋 I'm Raj Fachara
+B.Tech Computer Engineering, Student at CHARUSAT University, India
 
 <!--
 **Raj-9747/Raj-9747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
